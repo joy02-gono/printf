@@ -6,8 +6,6 @@
 .\"
 .TH _PRINTF "May 20 2022" "0.1" "Library functions manual"
 
-
-
 .SH NAME
 .SH ""
 
@@ -126,8 +124,4 @@ hexadecimal preceded by \x
 
 .SH "AUTHORS"
 .SH ""
-Rejoice Gono and Ziyanda Ndlamafa
-
-
-
-
+Ziyanda Ndlamafa and Rejoice Gono
